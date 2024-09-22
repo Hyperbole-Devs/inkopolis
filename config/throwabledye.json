@@ -1,0 +1,6 @@
+{
+  "outliers": {
+    "minecraft:glass": "{color}_stained_glass",
+    "minecraft:glass_pane": "{color}_stained_glass_pane"
+  }
+}
