@@ -106,6 +106,3 @@ Inkopolis isn’t just about gameplay; it’s about immersing yourself in a colo
 
 # Thanks
 A big shoutout to the mod developers who tirelessly contribute to the community, making experiences like Inkopolis possible!
-
-# Thanks
-Thank you to Moddermore for helping us create Inkopolis. Also splatastic thanks to the mod developers that this modpack consists of, as they work so hard to keep Modrinth running :).
