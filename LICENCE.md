@@ -146,9 +146,9 @@ While redistributing the Work or Derivative Works thereof, You may choose to
 
 **11. Miscellaneous**
 
-(a) Governing Law: This Licence shall be governed by and construed in accordance with the laws of [Jurisdiction], without regard to its conflict of law principles.
+(a) Governing Law: This Licence shall be governed by and construed in accordance with the laws of the Commonwealth Of Australia, without regard to its conflict of law principles.
 
-(b) Dispute Resolution: Any disputes arising out of or in connection with this Licence shall be resolved through binding arbitration conducted in [Location], under the rules of [Arbitration Institution].
+(b) Dispute Resolution: Any disputes arising out of or in connection with this Licence shall be resolved through binding arbitration conducted through back and forth conversation with the Licencsor, under the rules that this licence states.
 
 (c) Severability: If any provision of this Licence is found to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
 
